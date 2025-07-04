@@ -13,10 +13,7 @@
   - `Dashboard project.xlsx`: Main project file
 
 ## 📸 Dashboard Preview 👇:
-
-
-
-
+  ![Dashboard Screenshot](Dashboard_Screenshot.jpg)
 
 ## 📧 Contact:
   Connect with me on [LinkedIn](https://www.linkedin.com/in/chirag-gothankar-7902a9330/) or reach out for collaboration!  
